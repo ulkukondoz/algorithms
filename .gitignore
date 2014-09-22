@@ -1,5 +1,5 @@
 
 atlassian-ide-plugin.xml
-algorithms.iml
+*.iml
 .idea
 */target
